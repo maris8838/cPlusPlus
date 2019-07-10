@@ -10,12 +10,15 @@
    - string 4bytes
    # typedef Declaration
    - it is like defining a new name for existing type
-   - for example:
+   
+   
+   # example
    - typedef type newname; 
-   - similarly
    - typedef int feet;
    - feet distance;
    - in above example we are having integer as feet and in second we are making integer as feet and defining new name as distance
+   
+   
    # enumeraated data type
    - enum enum-name { list of names } var-list;
    - enum color { red, green, blue } c;
